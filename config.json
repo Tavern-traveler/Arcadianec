@@ -1,0 +1,8 @@
+{
+    "token": "ODY4NDMyMTM5NjU2NTIzNzg3.Ge3pAA.YzW-vnPi4irJxeLZf_CnnboLaPBaWv5Hl23hN0",
+    "owners": ["868432139656523787"],
+    "prefix": ";",
+    "defaultPerms": ["SEND_MESSAGES" , "VIEW_CHANNEL", "SPEAK"],
+    "mongoPath": "mongodb://localhost:27017"    
+}
+
