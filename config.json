@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN",
+    "owners": ["ID BOT"],
+    "prefix": "PREFIX",
+    "defaultPerms": ["SEND_MESSAGES" , "VIEW_CHANNEL", "SPEAK"],
+    "mongoPath": "mongodb://localhost:27017"    
+}
+
